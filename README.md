@@ -1,120 +1,58 @@
-# 👋 Hi, I'm Ivan
+👋 Hi, I'm Ivan
+Frontend Developer focused on building modern web applications with React and TypeScript.
 
-Frontend Developer focused on clean HTML, modern CSS, and basic JavaScript.
+🚀 About Me
+💻 Junior Frontend Developer
+⚛️ Building SPA applications with React
+📱 Creating responsive and user-friendly interfaces
+🧠 Working with APIs, state management, and application logic
+🧩 Using custom hooks and component-based architecture
+📈 Continuously improving my skills and exploring best practices
 
----
+🛠 Tech Stack
 
-## 🚀 About Me
-- 💻 Junior Frontend Developer  
-- 📱 Creating responsive landing pages  
-- 🎯 Focus on semantic markup and clean layout  
-- 🔧 Working with localStorage and basic JS logic  
-- 📈 Constantly improving my skills  
+React
+TypeScript
+JavaScript (ES6+)
+HTML5
+CSS3 (Flexbox, Grid, CSS Modules)
+React Router
+Supabase
+Git & GitHub
 
----
+📬 Contact
+GitHub: https://github.com/Ivan-lyakh
+Telegram: https://t.me/ivan_lyakh
+WhatsApp: https://wa.me/420771181597
 
-## 🛠 Tech Stack
-- HTML5  
-- CSS3 (Flexbox, Grid)  
-- JavaScript (ES6, basic)  
-- Git & GitHub  
+⭐ Open to junior positions and freelance opportunities
 
----
+👋 Привет, я Иван
+Frontend-разработчик, создаю современные веб-приложения с использованием React и TypeScript.
 
-## 📂 Projects
+🚀 Обо мне
+💻 Junior Frontend Developer
+⚛️ Разрабатываю SPA-приложения на React
+📱 Делаю адаптивные и удобные интерфейсы
+🧠 Работаю с API, состоянием и логикой приложения
+🧩 Использую кастомные хуки и компонентный подход
+📈 Постоянно развиваюсь и изучаю лучшие практики
 
-### 🚚 Logistic Company Website (Main Project)
-🌐 **Live Demo:** https://ivan-lyakh.github.io/web-logistick-company/  
-📦 **Repository:** https://github.com/Ivan-lyakh/web-logistick-company  
+🛠 Стек технологий
 
-Responsive multi-page website for a logistics company.  
-Includes modern layout, adaptive design, animations (AOS), and clean component-based structure.
+React
+TypeScript
+JavaScript (ES6+)
+HTML5
+CSS3 (Flexbox, Grid, CSS Modules)
+React Router
+Supabase
+Git & GitHub
 
----
+📬 Контакты
+GitHub: https://github.com/Ivan-lyakh
+Telegram: https://t.me/ivan_lyakh
+WhatsApp: https://wa.me/420771181597
 
-### 🎮 Game Web Landing
-🌐 **Live Demo:** https://ivan-lyakh.github.io/game-web/  
-📦 **Repository:** https://github.com/Ivan-lyakh/game-web  
+⭐ Открыт к junior-позициям и фриланс-проектам
 
-Adaptive landing page for a game studio.  
-Demonstrates skills in layout, responsiveness, burger menu, and hover effects.
-
----
-
-### ✅ To-Do List App
-🌐 **Live Demo:** https://ivan-lyakh.github.io/todo-list-js/  
-📦 **Repository:** https://github.com/Ivan-lyakh/todo-list-js  
-
-Simple to-do list with task saving using `localStorage`.  
-Demonstrates basic JavaScript logic and DOM manipulation.
-
----
-
-## 📬 Contact
-- GitHub: https://github.com/Ivan-lyakh  
-- Telegram: https://t.me/ivan_lyakh  
-- WhatsApp: https://wa.me/420771181597  
-
-⭐ Open to junior positions and freelance projects
-
----
-
-# 👋 Привет, я Иван
-
-Junior Frontend-разработчик. Занимаюсь вёрсткой сайтов и созданием интерфейсов на HTML, CSS и JavaScript.
-
----
-
-## 🚀 Обо мне
-- 💻 Junior Frontend Developer  
-- 📱 Вёрстка адаптивных лендингов  
-- 🧱 Семантическая HTML-разметка  
-- 🎨 Современная вёрстка (Flexbox, Grid)  
-- ⚙️ Базовый JavaScript и работа с localStorage  
-- 📈 Постоянно развиваюсь и улучшаю навыки  
-
----
-
-## 🛠 Стек технологий
-- HTML5  
-- CSS3 (Flexbox, Grid)  
-- JavaScript (ES6, базовый уровень)  
-- Git & GitHub  
-
----
-
-## 📂 Проекты
-
-### 🚚 Logistic Company Website (Основной проект)
-🌐 **Демо:** https://ivan-lyakh.github.io/web-logistick-company/  
-📦 **Репозиторий:** https://github.com/Ivan-lyakh/web-logistick-company  
-
-Адаптивный многостраничный сайт для логистической компании.  
-Реализована современная вёрстка, адаптация под разные устройства и анимации при скролле.
-
----
-
-### 🎮 Game Web Landing
-🌐 **Демо:** https://ivan-lyakh.github.io/game-web/  
-📦 **Репозиторий:** https://github.com/Ivan-lyakh/game-web  
-
-Адаптивный лендинг для игровой студии.  
-Реализованы бургер-меню, hover-эффекты и мобильная адаптация.
-
----
-
-### ✅ To-Do List
-🌐 **Демо:** https://ivan-lyakh.github.io/todo-list-js/  
-📦 **Репозиторий:** https://github.com/Ivan-lyakh/todo-list-js  
-
-Список задач с сохранением данных в `localStorage`.  
-Проект демонстрирует базовую логику JavaScript и работу с DOM.
-
----
-
-## 📬 Контакты
-- GitHub: https://github.com/Ivan-lyakh  
-- Telegram: https://t.me/ivan_lyakh  
-- WhatsApp: https://wa.me/420771181597  
-
-⭐ Открыт к junior-позициям и фриланс-заказам
